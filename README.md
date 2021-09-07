@@ -1,2 +1,2 @@
 # C-_Learning
-This is a running record of my learning of C++ using __Sams_Teach_Yourseld_C++_In_One_Hour_a_Day_8th_Edition__. 
+This is a running record of my learning of C++ using __Sams Teach Yourself C++ In One Hour a Day 8th Edition__. 

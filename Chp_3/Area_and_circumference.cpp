@@ -8,13 +8,13 @@
 using namespace std;
 const float pi = (22.0 / 7)
 
-CircleAreaCalculator(float radius) {
+float CircleAreaCalculator(float radius) {
 
 	float area = (pi * radius * radius);
 	return area;
 }
 
-CircleCircumferenceCalculator(float radius) {
+float CircleCircumferenceCalculator(float radius) {
 
 	float circumference = (2 * pi * radius);
 	return circumference;

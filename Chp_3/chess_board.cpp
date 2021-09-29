@@ -9,7 +9,7 @@ the pieces that may possibly occupy the squares. */
 
 // We can cut down some work by creating the "pieces" rows, since they are mirrored on a chess board. 
 
-// Chess board has 64 spaces. 8 X 8. The first two rows and the last two containing pieces. 
+// Chess board has 64 spaces. 8 X 8. The first two rows and the last two containing pieces.  
 
 
 
